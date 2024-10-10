@@ -2,7 +2,8 @@ Introducing **Arkin WalkMan Beta**: a cutting-edge, test version of an 8D music 
 
 **Note**: Full functionality, including music library management, analytics, and advanced control features, will be available in the Alpha version. For now, enjoy the seamless experience of 8D audio with the essential features in **Arkin WalkMan Beta**!
 
-![README_AnalyticsWeb](https://github.com/user-attachments/assets/b0269308-971a-4cea-b35c-4ef7250d2011)
+![README_AnalyticsWeb](https://github.com/user-attachments/assets/81901180-0d12-4d00-8350-29c3fd377bda)
+
 
 ![README_ConsoleWeb](https://github.com/user-attachments/assets/1613526a-9331-456a-a5ef-50240ada71fb)
 

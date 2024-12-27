@@ -1,24 +1,24 @@
 document.getElementById("demonSlayer-list").onclick = function() {
-    window.location.href = "file:///C:/Users/Username/OneDrive/Documents/Projects/Arkin%20WalkMan/Music%20Player/Demon%20Slayer%20Music/index.html";
+    window.location.href = "/*Provide The Demon Slayer MP Page Path*/";
   };
 
   document.getElementById("oshiNK-list").onclick = function() {
-    window.location.href = "file:///C:/Users/Username/OneDrive/Documents/Projects/Arkin%20WalkMan/Music%20Player/Oshi%20No%20Ko%20Music/index.html";
+    window.location.href = "/*Provide The Oshi No Ko MP Page Path*/";
   };
 
   document.getElementById("bleach-list").onclick = function() {
-    window.location.href = "file:///C:/Users/Username/OneDrive/Documents/Projects/Arkin%20WalkMan/Music%20Player/Bleach%20Music/index.html";
+    window.location.href = "/*Provide The Bleach MP Page Path*/";
   };
 
 
   document.getElementById("demonSlayer-tier").onclick = function() {
-    window.location.href = "file:///C:/Users/Username/OneDrive/Documents/Projects/Arkin%20WalkMan/Music%20Player/Demon%20Slayer%20Music/index.html";
+    window.location.href = "/*Provide The Demon Slayer MP Page Path*/";
   };
 
   document.getElementById("oshiNK-tier").onclick = function() {
-    window.location.href = "file:///C:/Users/Username/OneDrive/Documents/Projects/Arkin%20WalkMan/Music%20Player/Oshi%20No%20Ko%20Music/index.html";
+    window.location.href = "/*Provide The Oshi No Ko MP Page Path*/";
   };
 
   document.getElementById("bleach-tier").onclick = function() {
-    window.location.href = "file:///C:/Users/Username/OneDrive/Documents/Projects/Arkin%20WalkMan/Music%20Player/Bleach%20Music/index.html";
+    window.location.href = "/*Provide The Bleach MP Page Path*/";
   };

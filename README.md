@@ -5,7 +5,7 @@ Introducing **Arkin WalkMan Beta**: a cutting-edge, test version of an 8D music 
 ![README_Home](https://github.com/user-attachments/assets/fc7a7614-0a60-4371-86ca-1e3698089bb5)
 
 
-![README_MC](https://github.com/user-attachments/assets/881dbc07-ab1b-441a-8da2-443d63f58e6b)
+![README_MC](https://github.com/user-attachments/assets/7726904d-874b-4194-8b47-49b0f9fee485)
 
 
 ![README_PlayerWeb](https://github.com/user-attachments/assets/ba621ce6-78c0-417c-82fc-b71d0928b3c5)

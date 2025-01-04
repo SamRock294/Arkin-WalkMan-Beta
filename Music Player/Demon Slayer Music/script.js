@@ -170,3 +170,16 @@ function repeatTrack() {
 
 // Bind repeatTrack function to repeat button click event
 repeat_btn.addEventListener("click", repeatTrack);
+
+const readmore = document.querySelector('.read-more-btn');
+const lyrics = document.querySelector('.lyrics');
+const padding = document.querySelector('.padding');
+
+if (readmore && lyrics) {
+    readmore.addEventListener('click', () => {
+        lyrics.classList.toggle('show-more');
+        padding.classList.toggle('show-more');
+    });
+} else {
+    console.error('Elements not found: .read-more-btn or .lyrics');
+}
